@@ -3,6 +3,6 @@
     "description": "N/A",
     "require": {
         "php": "~5.4.11|~5.5.0",
-        "magento/core": "*"
+        "magento/core": "1.9.4.4"
     },
 }
