@@ -1,0 +1,8 @@
+{
+    "name": "foo",
+    "description": "N/A",
+    "require": {
+        "php": "~5.4.11|~5.5.0",
+        "magento/core": "*"
+    },
+}
